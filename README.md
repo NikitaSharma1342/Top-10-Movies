@@ -32,7 +32,7 @@ As soon as user opens the website we would see "Top 10 movies" and the respectiv
 
 While the user types in the entry box to add the movie and press enter, it will take the user to select page from where user can select the movie and add it.
 
-For data, and lists we have requested from a [The Movie Database website](https://api.themoviedb.org/3/search/movie). The movies added are stored in a database movies.db and delete option deletes the movies from the same database.
+For data, and lists we have requested from a [The Movie Database website](https://api.themoviedb.org/3/search/movie). The movies added are stored in a database `movies.db` and delete option deletes the movies from the same database.
 
 # Screenshots
 
